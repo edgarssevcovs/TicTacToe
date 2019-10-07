@@ -1,4 +1,3 @@
-
 var activePlayer, moves, isWinner;
 
 activePlayer = 0;
